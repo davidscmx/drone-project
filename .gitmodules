@@ -1,0 +1,9 @@
+[submodule "drone-motion-planning"]
+	path = drone-motion-planning
+	url = git@github.com:davidsosa/drone-motion-planning.git
+[submodule "drone-control"]
+	path = drone-control
+	url = git@github.com:davidsosa/drone-control.git
+[submodule "drone-estimation"]
+	path = drone-estimation
+	url = git@github.com:davidsosa/drone-estimation.git
